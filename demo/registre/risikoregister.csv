@@ -1,0 +1,5 @@
+id,tittel,beskrivelse,forst_observert,siste_bevegelse,status,kildenivaa,eier,konsekvens
+R-001,Grunnforhold ost,Blotlagt fjell hoyere enn antatt i sondering,2026-04-12,2026-06-03,lukket,1,PL,kostnad
+R-002,Naboklage riggomrade,Stoy fra tidlig anleggstrafikk,2026-05-20,2026-08-11,overvakes,2,PL,omdomme
+R-004,Leveranse ventilasjonsaggregater,Leveringsdato ikke bekreftet av leverandor,2026-08-24,2026-08-24,apen,2,PL,fremdrift
+R-006,Bemanning ror uke 39-40,Underentreprenor har ikke bekreftet kapasitet,2026-08-26,2026-08-26,apen,3,PL,fremdrift

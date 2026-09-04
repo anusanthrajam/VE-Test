@@ -1,0 +1,32 @@
+prosjekt:
+  navn: "Bjørnheia skole – nybygg og rehabilitering"
+  slug: "bjornheia-skole"
+  prosjektleder: "Marte Solvang"
+  kontraktsform: "Totalentreprise NS 8407"
+  oppstart: "2026-02-16"
+  planlagt_ferdig: "2027-08-13"
+
+budsjett:
+  totalramme: 175400000
+  valuta: NOK
+  rapporteres_som: "påløpt vs. budsjett, med prognose mot ramme"
+  kilde_dokument: "okonomirapport-*.csv"
+
+rapport:
+  ukedag: fredag
+  klokkeslett: "14:00"
+  maks_punkter_per_seksjon: 5
+  maks_ord_per_punkt: 25
+
+kanaler:
+  tale_sprak: "no"
+
+terminologi:
+  - "avvik"
+  - "endringsmelding"
+  - "tett bygg"
+  - "RIB"
+  - "RIE"
+  - "vernerunde"
+  - "riggområde"
+  - "prognose"

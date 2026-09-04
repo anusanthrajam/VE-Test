@@ -1,0 +1,7 @@
+id,tittel,beskrivelse,forst_observert,siste_bevegelse,status,kildenivaa,eier,konsekvens
+R-001,Grunnforhold ost,Blotlagt fjell hoyere enn antatt i sondering,2026-04-12,2026-06-03,lukket,1,PL,kostnad
+R-002,Naboklage riggomrade,Naboklage paa tidlig anleggstrafikk gjentatt tredje gang,2026-05-20,2026-09-03,overvakes,2,PL,omdomme
+R-004,Leveranse ventilasjonsaggregater,Ny leveringsdato 28.09 mot 14.09 for plan 2 og 3; komponentmangel hos underleverandor,2026-08-24,2026-08-31,eskalert,2,PL,fremdrift
+R-006,Bemanning ror uke 39-40,Formann rorlegger antydet muntlig mulig bemanningsmangel uke 39-40,2026-08-26,2026-09-03,apen,3,PL,fremdrift
+R-007,Merforbruk ventilasjonspost - muntlig indikasjon,Muntlig anslag om merforbruk utover rapportert avvik paa 120 000; ikke verifisert,2026-09-03,2026-09-03,apen,3,PL,kostnad
+R-008,Detaljering himling mot glassfelt vestibyle,Overgang mot glassfelt i vestibyle maa detaljeres paa nytt etter valg av systemhimling,2026-09-02,2026-09-02,apen,2,RIB,prosjektering

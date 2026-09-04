@@ -1,0 +1,843 @@
+{
+  "uke": "2026-36",
+  "periode": "31.08–04.09.2026",
+  "prosjekt_kort": "Bjørnheia skole",
+  "utsagn": [
+    {
+      "id": "U01",
+      "kilde_id": "E03",
+      "sak": "betong-plan3",
+      "kategori": "PROGRAM",
+      "delta": "NY",
+      "tekst": "Dekket på plan 3 ble ferdig støpt onsdag; herdetid som planlagt.",
+      "rapportpunkt": "Dekke plan 3 ferdig støpt 02.09, to dager foran plan; forskaling rives mandag uke 37.",
+      "kanal": "epost",
+      "nivaa": 2,
+      "filnavn": "inn/uke-2026-36/epost/2026-09-02-betong-plan3.txt"
+    },
+    {
+      "id": "U02",
+      "kilde_id": "E03",
+      "sak": "betong-plan3",
+      "kategori": "PROGRAM",
+      "delta": "NY",
+      "tekst": "Forskaling rives mandag uke 37.",
+      "kanal": "epost",
+      "nivaa": 2,
+      "filnavn": "inn/uke-2026-36/epost/2026-09-02-betong-plan3.txt"
+    },
+    {
+      "id": "U03",
+      "kilde_id": "E03",
+      "sak": "betong-plan3",
+      "kategori": "PROGRAM",
+      "delta": "NY",
+      "tekst": "Vi ligger to dager foran plan på denne aktiviteten.",
+      "kanal": "epost",
+      "nivaa": 2,
+      "filnavn": "inn/uke-2026-36/epost/2026-09-02-betong-plan3.txt"
+    },
+    {
+      "id": "U04",
+      "kilde_id": "T01",
+      "sak": "betong-plan3",
+      "kategori": "PROGRAM",
+      "delta": "NY",
+      "tekst": "Betongen på plan tre er ferdig, Jonas sa vi lå litt foran.",
+      "kanal": "tale",
+      "nivaa": 3,
+      "filnavn": "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+    },
+    {
+      "id": "U05",
+      "kilde_id": "E01",
+      "sak": "ventilasjon-leveranse",
+      "kategori": "PROGRAM",
+      "delta": "ENDRET",
+      "tekst": "Aggregatene til plan 2 og 3 er forsinket; ny leveringsdato 28.09 mot opprinnelig 14.09.",
+      "rapportpunkt": "Ventilasjonsaggregater til plan 2 og 3 forsinket til 28.09, mot opprinnelig 14.09; plan 1 leveres uke 37.",
+      "kanal": "epost",
+      "nivaa": 2,
+      "filnavn": "inn/uke-2026-36/epost/2026-08-31-ventilasjon-leveranse.txt"
+    },
+    {
+      "id": "U06",
+      "kilde_id": "E01",
+      "sak": "ventilasjon-leveranse",
+      "kategori": "PROGRAM",
+      "delta": "ENDRET",
+      "tekst": "Aggregatene til plan 1 går som planlagt uke 37.",
+      "kanal": "epost",
+      "nivaa": 2,
+      "filnavn": "inn/uke-2026-36/epost/2026-08-31-ventilasjon-leveranse.txt"
+    },
+    {
+      "id": "U07",
+      "kilde_id": "E01",
+      "sak": "ventilasjon-leveranse",
+      "kategori": "PROGRAM",
+      "delta": "ENDRET",
+      "tekst": "Årsaken er komponentmangel hos underleverandør i Polen.",
+      "kanal": "epost",
+      "nivaa": 2,
+      "filnavn": "inn/uke-2026-36/epost/2026-08-31-ventilasjon-leveranse.txt"
+    },
+    {
+      "id": "U08",
+      "kilde_id": "T01",
+      "sak": "ventilasjon-leveranse",
+      "kategori": "PROGRAM",
+      "delta": "ENDRET",
+      "tekst": "Aggregatene blir forsinka, cirka to uker.",
+      "kanal": "tale",
+      "nivaa": 3,
+      "filnavn": "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+    },
+    {
+      "id": "U09",
+      "kilde_id": "E01",
+      "sak": "ventilasjon-himling-risiko",
+      "kategori": "RISIKO",
+      "delta": "ENDRET",
+      "register_id": "R-004",
+      "tekst": "Leverandør ser ikke påvirkning på egen montasje ut over forskyvningen, men prosjektet må vurdere om det slår inn på himling.",
+      "rapportpunkt": "Forsinket aggregatleveranse kan slå inn på himling; leverandør ber prosjektet vurdere konsekvens.",
+      "kanal": "epost",
+      "nivaa": 2,
+      "filnavn": "inn/uke-2026-36/epost/2026-08-31-ventilasjon-leveranse.txt"
+    },
+    {
+      "id": "U10",
+      "kilde_id": "T01",
+      "sak": "ventilasjon-himling-risiko",
+      "kategori": "RISIKO",
+      "delta": "ENDRET",
+      "register_id": "R-004",
+      "tekst": "Det er ikke kritisk slik jeg ser det nå, det kommer an på om himlinga henger etter.",
+      "kanal": "tale",
+      "nivaa": 3,
+      "filnavn": "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+    },
+    {
+      "id": "U11",
+      "kilde_id": "E02",
+      "sak": "himling-materialvalg",
+      "kategori": "DESIGN",
+      "delta": "NY",
+      "register_id": "B-012",
+      "tekst": "Byggherre har besluttet systemhimling type B i fellesarealene i stedet for gipshimling i opprinnelig beskrivelse.",
+      "rapportpunkt": "Systemhimling type B i fellesarealer erstatter gipshimling; RIB bekrefter løsning innenfor eksisterende høyder.",
+      "kanal": "epost",
+      "nivaa": 2,
+      "filnavn": "inn/uke-2026-36/epost/2026-09-01-himling-materialvalg.txt"
+    },
+    {
+      "id": "U12",
+      "kilde_id": "E02",
+      "sak": "himling-materialvalg",
+      "kategori": "DESIGN",
+      "delta": "NY",
+      "register_id": "B-012",
+      "tekst": "Begrunnelsen er leveringstid og bedre tilgang for ettersyn av tekniske føringer.",
+      "kanal": "epost",
+      "nivaa": 2,
+      "filnavn": "inn/uke-2026-36/epost/2026-09-01-himling-materialvalg.txt"
+    },
+    {
+      "id": "U13",
+      "kilde_id": "E02",
+      "sak": "himling-materialvalg",
+      "kategori": "DESIGN",
+      "delta": "NY",
+      "register_id": "B-012",
+      "tekst": "Kostnadsmessig er alternativene tilnærmet like.",
+      "kanal": "epost",
+      "nivaa": 2,
+      "filnavn": "inn/uke-2026-36/epost/2026-09-01-himling-materialvalg.txt"
+    },
+    {
+      "id": "U14",
+      "kilde_id": "E04",
+      "sak": "himling-materialvalg",
+      "kategori": "DESIGN",
+      "delta": "NY",
+      "register_id": "B-012",
+      "tekst": "RIB bekrefter at systemhimling type B lar seg løse innenfor eksisterende høyder.",
+      "kanal": "epost",
+      "nivaa": 2,
+      "filnavn": "inn/uke-2026-36/epost/2026-09-02-himling-konsekvens.txt"
+    },
+    {
+      "id": "U15",
+      "kilde_id": "T01",
+      "sak": "himling-materialvalg",
+      "kategori": "DESIGN",
+      "delta": "NY",
+      "register_id": "B-012",
+      "tekst": "Vi fikk beslutninga fra kommunen om systemhimling.",
+      "kanal": "tale",
+      "nivaa": 3,
+      "filnavn": "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+    },
+    {
+      "id": "U16",
+      "kilde_id": "E02",
+      "sak": "himling-gammel-beslutning",
+      "kategori": "DESIGN",
+      "delta": "LUKKET",
+      "register_id": "B-009",
+      "tekst": "Dette erstatter beslutningen fra prosjekteringsmøte 12.06.",
+      "rapportpunkt": "Gipshimling i fellesarealer, besluttet 12.06, erstattet av B-012.",
+      "kanal": "epost",
+      "nivaa": 2,
+      "filnavn": "inn/uke-2026-36/epost/2026-09-01-himling-materialvalg.txt"
+    },
+    {
+      "id": "U17",
+      "kilde_id": "E04",
+      "sak": "himling-tegningsrevisjon",
+      "kategori": "PROGRAM",
+      "delta": "NY",
+      "tekst": "Tegning A-204 og A-205 oppdateres, revisjon leveres fredag 05.09.",
+      "rapportpunkt": "RIB leverer revidert tegning A-204 og A-205 fredag 05.09.",
+      "kanal": "epost",
+      "nivaa": 2,
+      "filnavn": "inn/uke-2026-36/epost/2026-09-02-himling-konsekvens.txt"
+    },
+    {
+      "id": "U18",
+      "kilde_id": "T01",
+      "sak": "himling-tegningsrevisjon",
+      "kategori": "PROGRAM",
+      "delta": "NY",
+      "tekst": "Tor sa han skulle oppdatere tegningene.",
+      "kanal": "tale",
+      "nivaa": 3,
+      "filnavn": "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+    },
+    {
+      "id": "U19",
+      "kilde_id": "E04",
+      "sak": "vestibyle-glassfelt",
+      "kategori": "RISIKO",
+      "delta": "NY",
+      "register_id": "R-008",
+      "tekst": "Overgang mot glassfelt i vestibyle må detaljeres på nytt; RIB kommer tilbake til det.",
+      "rapportpunkt": "Overgang himling mot glassfelt i vestibyle må detaljeres på nytt.",
+      "kanal": "epost",
+      "nivaa": 2,
+      "filnavn": "inn/uke-2026-36/epost/2026-09-02-himling-konsekvens.txt"
+    },
+    {
+      "id": "U20",
+      "kilde_id": "T01",
+      "sak": "vestibyle-glassfelt",
+      "kategori": "RISIKO",
+      "delta": "NY",
+      "register_id": "R-008",
+      "tekst": "Det var noe med vestibylen, glasset der, det var han litt usikker på.",
+      "kanal": "tale",
+      "nivaa": 3,
+      "filnavn": "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+    },
+    {
+      "id": "U21",
+      "kilde_id": "V01",
+      "sak": "okonomi-palopt",
+      "kategori": "BUDSJETT",
+      "delta": "ENDRET",
+      "tekst": "SUM påløpt 94 900 000 av budsjett 175 400 000 per 31.08.2026.",
+      "rapportpunkt": "Påløpt 94,9 MNOK av ramme 175,4 MNOK per 31.08.",
+      "kanal": "vedlegg",
+      "nivaa": 1,
+      "filnavn": "inn/uke-2026-36/vedlegg/okonomirapport-2026-08.csv"
+    },
+    {
+      "id": "U22",
+      "kilde_id": "V01",
+      "sak": "okonomi-prognose",
+      "kategori": "BUDSJETT",
+      "delta": "ENDRET",
+      "tekst": "SUM prognose 175 020 000, avvik prognose +380 000 mot ramme.",
+      "rapportpunkt": "Prognose 175,02 MNOK, 0,38 MNOK under ramme.",
+      "kanal": "vedlegg",
+      "nivaa": 1,
+      "filnavn": "inn/uke-2026-36/vedlegg/okonomirapport-2026-08.csv"
+    },
+    {
+      "id": "U23",
+      "kilde_id": "V01",
+      "sak": "okonomi-ventilasjon",
+      "kategori": "BUDSJETT",
+      "delta": "NY",
+      "tekst": "Post 06 Ventilasjon: budsjett 16 500 000, påløpt 9 350 000, prognose 16 620 000, avvik prognose -120 000.",
+      "rapportpunkt": "Ventilasjon: prognose 16,62 MNOK mot budsjett 16,5 MNOK, avvik 0,12 MNOK.",
+      "kanal": "vedlegg",
+      "nivaa": 1,
+      "filnavn": "inn/uke-2026-36/vedlegg/okonomirapport-2026-08.csv"
+    },
+    {
+      "id": "U24",
+      "kilde_id": "V01",
+      "sak": "okonomi-rigg",
+      "kategori": "BUDSJETT",
+      "delta": "NY",
+      "tekst": "Post 01 Rigg og drift: budsjett 12 400 000, prognose 12 600 000, avvik prognose -200 000.",
+      "rapportpunkt": "Rigg og drift: prognose 12,6 MNOK mot budsjett 12,4 MNOK, avvik 0,2 MNOK.",
+      "kanal": "vedlegg",
+      "nivaa": 1,
+      "filnavn": "inn/uke-2026-36/vedlegg/okonomirapport-2026-08.csv"
+    },
+    {
+      "id": "U25",
+      "kilde_id": "T01",
+      "sak": "ventilasjon-merforbruk-indikasjon",
+      "kategori": "RISIKO",
+      "delta": "NY",
+      "register_id": "R-007",
+      "tekst": "Magefølelse om at vi ligger rundt tre hundre tusen over på ventilasjonsposten, må sjekkes.",
+      "rapportpunkt": "Muntlig indikasjon om merforbruk på ventilasjonsposten utover rapportert avvik; må sjekkes.",
+      "kanal": "tale",
+      "nivaa": 3,
+      "filnavn": "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+    },
+    {
+      "id": "U26",
+      "kilde_id": "T01",
+      "sak": "ror-bemanning",
+      "kategori": "RISIKO",
+      "delta": "ENDRET",
+      "register_id": "R-006",
+      "tekst": "Formannen til rørlegger antydet at de kanskje ikke får folk nok i uke 39 og 40; hvis rør glipper får vi et problem inn mot tett bygg.",
+      "rapportpunkt": "Rørleggers formann antydet mulig bemanningsmangel uke 39–40, med konsekvens inn mot tett bygg.",
+      "kanal": "tale",
+      "nivaa": 3,
+      "filnavn": "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+    },
+    {
+      "id": "U27",
+      "kilde_id": "T01",
+      "sak": "naboklage-riggomrade",
+      "kategori": "RISIKO",
+      "delta": "ENDRET",
+      "register_id": "R-002",
+      "tekst": "Naboen har klaga igjen på lastebiler tidlig om morgenen, tredje gangen; må tas opp med kommunen.",
+      "rapportpunkt": "Naboklage på tidlig anleggstrafikk gjentatt tredje gang; må tas opp med kommunen.",
+      "kanal": "tale",
+      "nivaa": 3,
+      "filnavn": "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+    },
+    {
+      "id": "U28",
+      "kilde_id": "E05",
+      "sak": "vernerunde-03-09",
+      "kategori": "UPLASSERT",
+      "delta": "NY",
+      "tekst": "Vernerunde gjennomført 03.09; ingen hendelser eller nærhendelser registrert i perioden.",
+      "kanal": "epost",
+      "nivaa": 2,
+      "filnavn": "inn/uke-2026-36/epost/2026-09-03-hms-vernerunde.txt"
+    },
+    {
+      "id": "U29",
+      "kilde_id": "E05",
+      "sak": "vernerunde-03-09",
+      "kategori": "UPLASSERT",
+      "delta": "NY",
+      "tekst": "To merknader lukket på stedet: manglende rekkverk ved sjakt plan 2, og rydding i riggområde øst.",
+      "kanal": "epost",
+      "nivaa": 2,
+      "filnavn": "inn/uke-2026-36/epost/2026-09-03-hms-vernerunde.txt"
+    },
+    {
+      "id": "U30",
+      "kilde_id": "T01",
+      "sak": "vernerunde-03-09",
+      "kategori": "UPLASSERT",
+      "delta": "NY",
+      "tekst": "Vernerunde var greit, ingenting å melde, Silje har sendt referat.",
+      "kanal": "tale",
+      "nivaa": 3,
+      "filnavn": "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+    },
+    {
+      "id": "U31",
+      "kilde_id": "E06",
+      "sak": "julebord-2026",
+      "kategori": "UPLASSERT",
+      "delta": "NY",
+      "tekst": "Julebord 05.12 på Radisson, påmelding innen 01.11, gi beskjed om allergier.",
+      "kanal": "epost",
+      "nivaa": 2,
+      "filnavn": "inn/uke-2026-36/epost/2026-09-03-julebord.txt"
+    }
+  ],
+  "uklart": [
+    {
+      "id": "Q01",
+      "tekst": "Muntlig anslag om cirka 300 000 merforbruk på ventilasjon står mot økonomirapportens avvik på 120 000.",
+      "muntlig": true,
+      "kilde_ider": [
+        "T01",
+        "V01"
+      ],
+      "type": "motstrid"
+    },
+    {
+      "id": "Q02",
+      "tekst": "Påvirker aggregatleveranse 28.09 fremdriften for himling og tett bygg?",
+      "muntlig": false,
+      "kilde_ider": [
+        "E01"
+      ],
+      "type": "apent-sporsmal"
+    }
+  ],
+  "risikoregister": [
+    {
+      "id": "R-004",
+      "handling": "oppdater",
+      "siste_bevegelse": "2026-08-31",
+      "status": "eskalert",
+      "kildenivaa": 2,
+      "beskrivelse": "Ny leveringsdato 28.09 mot 14.09 for plan 2 og 3; komponentmangel hos underleverandor"
+    },
+    {
+      "id": "R-006",
+      "handling": "oppdater",
+      "siste_bevegelse": "2026-09-03",
+      "status": "apen",
+      "kildenivaa": 3,
+      "beskrivelse": "Formann rorlegger antydet muntlig mulig bemanningsmangel uke 39-40"
+    },
+    {
+      "id": "R-002",
+      "handling": "oppdater",
+      "siste_bevegelse": "2026-09-03",
+      "status": "overvakes",
+      "kildenivaa": 2,
+      "beskrivelse": "Naboklage paa tidlig anleggstrafikk gjentatt tredje gang"
+    },
+    {
+      "id": "R-007",
+      "handling": "ny",
+      "tittel": "Merforbruk ventilasjonspost - muntlig indikasjon",
+      "beskrivelse": "Muntlig anslag om merforbruk utover rapportert avvik paa 120 000; ikke verifisert",
+      "forst_observert": "2026-09-03",
+      "siste_bevegelse": "2026-09-03",
+      "status": "apen",
+      "kildenivaa": 3,
+      "eier": "PL",
+      "konsekvens": "kostnad"
+    },
+    {
+      "id": "R-008",
+      "handling": "ny",
+      "tittel": "Detaljering himling mot glassfelt vestibyle",
+      "beskrivelse": "Overgang mot glassfelt i vestibyle maa detaljeres paa nytt etter valg av systemhimling",
+      "forst_observert": "2026-09-02",
+      "siste_bevegelse": "2026-09-02",
+      "status": "apen",
+      "kildenivaa": 2,
+      "eier": "RIB",
+      "konsekvens": "prosjektering"
+    }
+  ],
+  "beslutningslogg": [
+    {
+      "id": "B-012",
+      "handling": "ny",
+      "dato": "2026-09-01",
+      "beslutning": "Systemhimling type B i fellesarealer",
+      "begrunnelse": "Leveringstid og bedre tilgang for ettersyn av tekniske foeringer",
+      "besluttet_av": "Byggherre",
+      "erstatter": "B-009",
+      "kilde": "epost/2026-09-01-himling-materialvalg.txt"
+    }
+  ],
+  "saker": [
+    {
+      "sak": "betong-plan3",
+      "kategori": "PROGRAM",
+      "delta": "NY",
+      "register_id": "",
+      "rapportpunkt": "Dekke plan 3 ferdig støpt 02.09, to dager foran plan; forskaling rives mandag uke 37.",
+      "primaerkilde": "inn/uke-2026-36/epost/2026-09-02-betong-plan3.txt",
+      "primaernivaa": 2,
+      "muntlig": false,
+      "bekreftet_flere_kanaler": true,
+      "kanaler": [
+        "epost",
+        "tale"
+      ],
+      "kilder": [
+        "inn/uke-2026-36/epost/2026-09-02-betong-plan3.txt",
+        "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+      ],
+      "utsagn_ider": [
+        "U01",
+        "U02",
+        "U03",
+        "U04"
+      ],
+      "kjent_fra_for": false,
+      "i_rapport": true
+    },
+    {
+      "sak": "ventilasjon-leveranse",
+      "kategori": "PROGRAM",
+      "delta": "ENDRET",
+      "register_id": "",
+      "rapportpunkt": "Ventilasjonsaggregater til plan 2 og 3 forsinket til 28.09, mot opprinnelig 14.09; plan 1 leveres uke 37.",
+      "primaerkilde": "inn/uke-2026-36/epost/2026-08-31-ventilasjon-leveranse.txt",
+      "primaernivaa": 2,
+      "muntlig": false,
+      "bekreftet_flere_kanaler": true,
+      "kanaler": [
+        "epost",
+        "tale"
+      ],
+      "kilder": [
+        "inn/uke-2026-36/epost/2026-08-31-ventilasjon-leveranse.txt",
+        "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+      ],
+      "utsagn_ider": [
+        "U05",
+        "U06",
+        "U07",
+        "U08"
+      ],
+      "kjent_fra_for": false,
+      "i_rapport": true
+    },
+    {
+      "sak": "ventilasjon-himling-risiko",
+      "kategori": "RISIKO",
+      "delta": "ENDRET",
+      "register_id": "R-004",
+      "rapportpunkt": "Forsinket aggregatleveranse kan slå inn på himling; leverandør ber prosjektet vurdere konsekvens.",
+      "primaerkilde": "inn/uke-2026-36/epost/2026-08-31-ventilasjon-leveranse.txt",
+      "primaernivaa": 2,
+      "muntlig": false,
+      "bekreftet_flere_kanaler": true,
+      "kanaler": [
+        "epost",
+        "tale"
+      ],
+      "kilder": [
+        "inn/uke-2026-36/epost/2026-08-31-ventilasjon-leveranse.txt",
+        "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+      ],
+      "utsagn_ider": [
+        "U09",
+        "U10"
+      ],
+      "kjent_fra_for": true,
+      "i_rapport": true
+    },
+    {
+      "sak": "himling-materialvalg",
+      "kategori": "DESIGN",
+      "delta": "NY",
+      "register_id": "B-012",
+      "rapportpunkt": "Systemhimling type B i fellesarealer erstatter gipshimling; RIB bekrefter løsning innenfor eksisterende høyder.",
+      "primaerkilde": "inn/uke-2026-36/epost/2026-09-01-himling-materialvalg.txt",
+      "primaernivaa": 2,
+      "muntlig": false,
+      "bekreftet_flere_kanaler": true,
+      "kanaler": [
+        "epost",
+        "tale"
+      ],
+      "kilder": [
+        "inn/uke-2026-36/epost/2026-09-01-himling-materialvalg.txt",
+        "inn/uke-2026-36/epost/2026-09-02-himling-konsekvens.txt",
+        "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+      ],
+      "utsagn_ider": [
+        "U11",
+        "U12",
+        "U13",
+        "U14",
+        "U15"
+      ],
+      "kjent_fra_for": true,
+      "i_rapport": true
+    },
+    {
+      "sak": "himling-gammel-beslutning",
+      "kategori": "DESIGN",
+      "delta": "LUKKET",
+      "register_id": "B-009",
+      "rapportpunkt": "Gipshimling i fellesarealer, besluttet 12.06, erstattet av B-012.",
+      "primaerkilde": "inn/uke-2026-36/epost/2026-09-01-himling-materialvalg.txt",
+      "primaernivaa": 2,
+      "muntlig": false,
+      "bekreftet_flere_kanaler": false,
+      "kanaler": [
+        "epost"
+      ],
+      "kilder": [
+        "inn/uke-2026-36/epost/2026-09-01-himling-materialvalg.txt"
+      ],
+      "utsagn_ider": [
+        "U16"
+      ],
+      "kjent_fra_for": true,
+      "i_rapport": true
+    },
+    {
+      "sak": "himling-tegningsrevisjon",
+      "kategori": "PROGRAM",
+      "delta": "NY",
+      "register_id": "",
+      "rapportpunkt": "RIB leverer revidert tegning A-204 og A-205 fredag 05.09.",
+      "primaerkilde": "inn/uke-2026-36/epost/2026-09-02-himling-konsekvens.txt",
+      "primaernivaa": 2,
+      "muntlig": false,
+      "bekreftet_flere_kanaler": true,
+      "kanaler": [
+        "epost",
+        "tale"
+      ],
+      "kilder": [
+        "inn/uke-2026-36/epost/2026-09-02-himling-konsekvens.txt",
+        "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+      ],
+      "utsagn_ider": [
+        "U17",
+        "U18"
+      ],
+      "kjent_fra_for": false,
+      "i_rapport": true
+    },
+    {
+      "sak": "vestibyle-glassfelt",
+      "kategori": "RISIKO",
+      "delta": "NY",
+      "register_id": "R-008",
+      "rapportpunkt": "Overgang himling mot glassfelt i vestibyle må detaljeres på nytt.",
+      "primaerkilde": "inn/uke-2026-36/epost/2026-09-02-himling-konsekvens.txt",
+      "primaernivaa": 2,
+      "muntlig": false,
+      "bekreftet_flere_kanaler": true,
+      "kanaler": [
+        "epost",
+        "tale"
+      ],
+      "kilder": [
+        "inn/uke-2026-36/epost/2026-09-02-himling-konsekvens.txt",
+        "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+      ],
+      "utsagn_ider": [
+        "U19",
+        "U20"
+      ],
+      "kjent_fra_for": true,
+      "i_rapport": true
+    },
+    {
+      "sak": "okonomi-palopt",
+      "kategori": "BUDSJETT",
+      "delta": "ENDRET",
+      "register_id": "",
+      "rapportpunkt": "Påløpt 94,9 MNOK av ramme 175,4 MNOK per 31.08.",
+      "primaerkilde": "inn/uke-2026-36/vedlegg/okonomirapport-2026-08.csv",
+      "primaernivaa": 1,
+      "muntlig": false,
+      "bekreftet_flere_kanaler": false,
+      "kanaler": [
+        "vedlegg"
+      ],
+      "kilder": [
+        "inn/uke-2026-36/vedlegg/okonomirapport-2026-08.csv"
+      ],
+      "utsagn_ider": [
+        "U21"
+      ],
+      "kjent_fra_for": false,
+      "i_rapport": true
+    },
+    {
+      "sak": "okonomi-prognose",
+      "kategori": "BUDSJETT",
+      "delta": "ENDRET",
+      "register_id": "",
+      "rapportpunkt": "Prognose 175,02 MNOK, 0,38 MNOK under ramme.",
+      "primaerkilde": "inn/uke-2026-36/vedlegg/okonomirapport-2026-08.csv",
+      "primaernivaa": 1,
+      "muntlig": false,
+      "bekreftet_flere_kanaler": false,
+      "kanaler": [
+        "vedlegg"
+      ],
+      "kilder": [
+        "inn/uke-2026-36/vedlegg/okonomirapport-2026-08.csv"
+      ],
+      "utsagn_ider": [
+        "U22"
+      ],
+      "kjent_fra_for": false,
+      "i_rapport": true
+    },
+    {
+      "sak": "okonomi-ventilasjon",
+      "kategori": "BUDSJETT",
+      "delta": "NY",
+      "register_id": "",
+      "rapportpunkt": "Ventilasjon: prognose 16,62 MNOK mot budsjett 16,5 MNOK, avvik 0,12 MNOK.",
+      "primaerkilde": "inn/uke-2026-36/vedlegg/okonomirapport-2026-08.csv",
+      "primaernivaa": 1,
+      "muntlig": false,
+      "bekreftet_flere_kanaler": false,
+      "kanaler": [
+        "vedlegg"
+      ],
+      "kilder": [
+        "inn/uke-2026-36/vedlegg/okonomirapport-2026-08.csv"
+      ],
+      "utsagn_ider": [
+        "U23"
+      ],
+      "kjent_fra_for": false,
+      "i_rapport": true
+    },
+    {
+      "sak": "okonomi-rigg",
+      "kategori": "BUDSJETT",
+      "delta": "NY",
+      "register_id": "",
+      "rapportpunkt": "Rigg og drift: prognose 12,6 MNOK mot budsjett 12,4 MNOK, avvik 0,2 MNOK.",
+      "primaerkilde": "inn/uke-2026-36/vedlegg/okonomirapport-2026-08.csv",
+      "primaernivaa": 1,
+      "muntlig": false,
+      "bekreftet_flere_kanaler": false,
+      "kanaler": [
+        "vedlegg"
+      ],
+      "kilder": [
+        "inn/uke-2026-36/vedlegg/okonomirapport-2026-08.csv"
+      ],
+      "utsagn_ider": [
+        "U24"
+      ],
+      "kjent_fra_for": false,
+      "i_rapport": true
+    },
+    {
+      "sak": "ventilasjon-merforbruk-indikasjon",
+      "kategori": "RISIKO",
+      "delta": "NY",
+      "register_id": "R-007",
+      "rapportpunkt": "Muntlig indikasjon om merforbruk på ventilasjonsposten utover rapportert avvik; må sjekkes.",
+      "primaerkilde": "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt",
+      "primaernivaa": 3,
+      "muntlig": true,
+      "bekreftet_flere_kanaler": false,
+      "kanaler": [
+        "tale"
+      ],
+      "kilder": [
+        "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+      ],
+      "utsagn_ider": [
+        "U25"
+      ],
+      "kjent_fra_for": true,
+      "i_rapport": true
+    },
+    {
+      "sak": "ror-bemanning",
+      "kategori": "RISIKO",
+      "delta": "ENDRET",
+      "register_id": "R-006",
+      "rapportpunkt": "Rørleggers formann antydet mulig bemanningsmangel uke 39–40, med konsekvens inn mot tett bygg.",
+      "primaerkilde": "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt",
+      "primaernivaa": 3,
+      "muntlig": true,
+      "bekreftet_flere_kanaler": false,
+      "kanaler": [
+        "tale"
+      ],
+      "kilder": [
+        "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+      ],
+      "utsagn_ider": [
+        "U26"
+      ],
+      "kjent_fra_for": true,
+      "i_rapport": true
+    },
+    {
+      "sak": "naboklage-riggomrade",
+      "kategori": "RISIKO",
+      "delta": "ENDRET",
+      "register_id": "R-002",
+      "rapportpunkt": "Naboklage på tidlig anleggstrafikk gjentatt tredje gang; må tas opp med kommunen.",
+      "primaerkilde": "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt",
+      "primaernivaa": 3,
+      "muntlig": true,
+      "bekreftet_flere_kanaler": false,
+      "kanaler": [
+        "tale"
+      ],
+      "kilder": [
+        "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+      ],
+      "utsagn_ider": [
+        "U27"
+      ],
+      "kjent_fra_for": true,
+      "i_rapport": true
+    },
+    {
+      "sak": "vernerunde-03-09",
+      "kategori": "UPLASSERT",
+      "delta": "NY",
+      "register_id": "",
+      "rapportpunkt": "Vernerunde gjennomført 03.09; ingen hendelser eller nærhendelser registrert i perioden.",
+      "primaerkilde": "inn/uke-2026-36/epost/2026-09-03-hms-vernerunde.txt",
+      "primaernivaa": 2,
+      "muntlig": false,
+      "bekreftet_flere_kanaler": true,
+      "kanaler": [
+        "epost",
+        "tale"
+      ],
+      "kilder": [
+        "inn/uke-2026-36/epost/2026-09-03-hms-vernerunde.txt",
+        "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt"
+      ],
+      "utsagn_ider": [
+        "U28",
+        "U29",
+        "U30"
+      ],
+      "kjent_fra_for": false,
+      "i_rapport": false
+    },
+    {
+      "sak": "julebord-2026",
+      "kategori": "UPLASSERT",
+      "delta": "NY",
+      "register_id": "",
+      "rapportpunkt": "Julebord 05.12 på Radisson, påmelding innen 01.11, gi beskjed om allergier.",
+      "primaerkilde": "inn/uke-2026-36/epost/2026-09-03-julebord.txt",
+      "primaernivaa": 2,
+      "muntlig": false,
+      "bekreftet_flere_kanaler": false,
+      "kanaler": [
+        "epost"
+      ],
+      "kilder": [
+        "inn/uke-2026-36/epost/2026-09-03-julebord.txt"
+      ],
+      "utsagn_ider": [
+        "U31"
+      ],
+      "kjent_fra_for": false,
+      "i_rapport": false
+    }
+  ],
+  "forrige_rapport": "ut/ukesrapport-2026-35.md"
+}

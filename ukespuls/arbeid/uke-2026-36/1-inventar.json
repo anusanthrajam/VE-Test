@@ -1,0 +1,90 @@
+{
+  "uke": "2026-36",
+  "antall": {
+    "epost": 6,
+    "vedlegg": 1,
+    "tale": 1
+  },
+  "kilder": [
+    {
+      "kilde_id": "V01",
+      "kanal": "vedlegg",
+      "filnavn": "inn/uke-2026-36/vedlegg/okonomirapport-2026-08.csv",
+      "dato": "",
+      "avsender": "dokument",
+      "nivaa": 1,
+      "dato_i_fil": "",
+      "antall_tegn": 593
+    },
+    {
+      "kilde_id": "E01",
+      "kanal": "epost",
+      "filnavn": "inn/uke-2026-36/epost/2026-08-31-ventilasjon-leveranse.txt",
+      "dato": "2026-08-31",
+      "avsender": "Kjetil Rønning <kjetil.ronning@nordvent.no>",
+      "nivaa": 2,
+      "dato_i_fil": "31.08.2026 08:42",
+      "antall_tegn": 595
+    },
+    {
+      "kilde_id": "E02",
+      "kanal": "epost",
+      "filnavn": "inn/uke-2026-36/epost/2026-09-01-himling-materialvalg.txt",
+      "dato": "2026-09-01",
+      "avsender": "Anne Lie <anne.lie@bjornheia-kommune.no>",
+      "nivaa": 2,
+      "dato_i_fil": "01.09.2026 15:10",
+      "antall_tegn": 607
+    },
+    {
+      "kilde_id": "E03",
+      "kanal": "epost",
+      "filnavn": "inn/uke-2026-36/epost/2026-09-02-betong-plan3.txt",
+      "dato": "2026-09-02",
+      "avsender": "Jonas Mikkelsen <jonas@bjornheia-entreprenor.no>",
+      "nivaa": 2,
+      "dato_i_fil": "02.09.2026 17:05",
+      "antall_tegn": 330
+    },
+    {
+      "kilde_id": "E04",
+      "kanal": "epost",
+      "filnavn": "inn/uke-2026-36/epost/2026-09-02-himling-konsekvens.txt",
+      "dato": "2026-09-02",
+      "avsender": "Tor Berge <tor.berge@ribraadgiver.no>",
+      "nivaa": 2,
+      "dato_i_fil": "02.09.2026 09:20",
+      "antall_tegn": 448
+    },
+    {
+      "kilde_id": "E05",
+      "kanal": "epost",
+      "filnavn": "inn/uke-2026-36/epost/2026-09-03-hms-vernerunde.txt",
+      "dato": "2026-09-03",
+      "avsender": "Silje Aasen <silje.aasen@bjornheia-entreprenor.no>",
+      "nivaa": 2,
+      "dato_i_fil": "03.09.2026 11:30",
+      "antall_tegn": 391
+    },
+    {
+      "kilde_id": "E06",
+      "kanal": "epost",
+      "filnavn": "inn/uke-2026-36/epost/2026-09-03-julebord.txt",
+      "dato": "2026-09-03",
+      "avsender": "Personalavdelingen <hr@bjornheia-entreprenor.no>",
+      "nivaa": 2,
+      "dato_i_fil": "03.09.2026 13:00",
+      "antall_tegn": 261
+    },
+    {
+      "kilde_id": "T01",
+      "kanal": "tale",
+      "filnavn": "inn/uke-2026-36/tale/tale-2026-09-03-1645.txt",
+      "dato": "2026-09-03",
+      "avsender": "prosjektleder",
+      "nivaa": 3,
+      "dato_i_fil": "",
+      "antall_tegn": 1725
+    }
+  ]
+}
